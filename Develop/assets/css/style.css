@@ -86,17 +86,6 @@ p {
     padding: 20px;
 }
 
-.footer {
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-    padding: 30px;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
-
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -141,4 +130,15 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+.footer {
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 30px;
+}
+
+.footer h2 {
+    font-size: 20px;
 }
