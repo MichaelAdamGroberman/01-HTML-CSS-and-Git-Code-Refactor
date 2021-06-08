@@ -50,6 +50,9 @@ p {
     font-size: 16px;
 }
 
+
+/* Initial Wholescreen image visable on homepage */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -69,11 +72,17 @@ p {
     margin-left: 25px;
 }
 
+
+/* left column contents */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+
+/* Benefits Side Column/Bar */
 
 .benefits {
     margin-right: 20px;
@@ -86,12 +95,18 @@ p {
     padding: 20px;
 }
 
+
+/* Benefits Sidebar Card Text Color and Bottom Margin */
+
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
     margin-bottom: 32px;
     color: #fff;
 }
+
+
+/* Benefits Sidebar Card Header (h3) attribute */
 
 .benefit-lead h3,
 .benefit-brand h3,
@@ -100,6 +115,9 @@ p {
     text-align: center;
 }
 
+
+/* benefits sidebar card image attributes */
+
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -107,6 +125,9 @@ p {
     max-width: 150px;
     margin: 10px auto;
 }
+
+
+/* attributes of left column sections/Cards */
 
 .search-engine-optimization,
 .online-reputation-management,
@@ -119,11 +140,17 @@ p {
     padding: 50px;
 }
 
+
+/* left column image attributes */
+
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
+
+
+/* left column Header attributes */
 
 .search-engine-optimization h2,
 .online-reputation-management h2,
@@ -131,6 +158,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
+/* FOOTER CONTENT goes here */
 
 .footer {
     clear: both;
