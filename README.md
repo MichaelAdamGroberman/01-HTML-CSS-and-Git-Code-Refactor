@@ -11,7 +11,7 @@ I refactored the code, adding HTML Semantic Elements, correcting some of the cod
 
 ## Deployed Page
 
-![Deployed Page Screenshot](./assets/images/deployed-screenshot.jpg)
+![Deployed Page Screenshot](./assets/images/deployed-screenshot.png)
 
 [Deployed GitPage](https://michaeladamgroberman.github.io/Horiseon-Code-Refactoring/)
 
